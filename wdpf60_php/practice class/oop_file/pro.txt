@@ -1,0 +1,4 @@
+1|lux|70
+2|savlon|90
+3|pear|100
+4|tibbet|32

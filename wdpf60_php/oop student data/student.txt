@@ -1,0 +1,4 @@
+1|Noman|95|passed
+2|Men|70|failed
+3|Superman|100|passed
+4|Maan|90|average
